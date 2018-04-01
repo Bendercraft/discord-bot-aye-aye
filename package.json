@@ -1,0 +1,31 @@
+{
+  "name": "aye-aye",
+  "version": "1.0.0",
+  "description": "Discord bot to help manage role hierarchies",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bendercraft/discord-bot-aye-aye.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "Role",
+    "Hierarchies"
+  ],
+  "author": "Nokorbis",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Bendercraft/discord-bot-aye-aye/issues"
+  },
+  "homepage": "https://github.com/Bendercraft/discord-bot-aye-aye#readme",
+  "dependencies": {
+    "bufferutil": "^3.0.3",
+    "discord.js": "^11.3.2",
+    "dotenv": "^5.0.1",
+    "log4js": "^2.5.3"
+  }
+}
